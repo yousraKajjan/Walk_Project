@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1048414381370",
+    "project_id": "flutter-train-2024",
+    "storage_bucket": "flutter-train-2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048414381370:android:745ca46bad03900feb5c03",
+        "android_client_info": {
+          "package_name": "com.example.namaa_poject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZT_7TQ0NAJTOkn_a_F1VJLo-wJwYMp5o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
